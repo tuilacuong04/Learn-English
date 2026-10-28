@@ -1,37 +1,67 @@
-Introduce yourself
+English Interview Script & Preparation
 
-I'm 24 years old, originally from QT
-before joining our company, I spent more than three years at FPT software as a software engineer, focusing primarily on low-code with OS.
-Currently, I work here as a software engineer combining both low-code and AI.
+Opening / Icebreaker
 
-I’ve been with the company for over a year now, working as a Software Engineer focused on low-code, mainly OutSystems
+"Last time, I was nervous, so I didn't answer well. I hope I will do much better."
 
-Definitely. It covers most of my needs across both work and continuous learning.
-In terms of work, AI accelerates code generation, handles repetitive tasks, and speeds up debugging. When it comes to learning, it acts like an on-demand mentor—helping me break down new architectures, explore modern tech stacks
+Question 1: Introduce yourself & experience
 
-OutSystems is a low-code platform that allows developers to drag and drop workflows instead of writing code manually, which significantly speeds up development.
+Interviewer: "Can you introduce yourself and your experience?"
 
-Which university did you attend / graduate from?
--> To be honest, I didn't go to university. I studied at FPT Software Academy and went straight to work right after finishing the training.
+Your Answer:
 
-I work with an AI-driven approach. AI generates most of the code based on my prompts and specifications. My main job is to guide the AI, review the generated code, and make sure everything is clean,     , and meets our requirements before deployment.
+"Let me introduce myself. I'm Cuong, or you can call me Coby. I have worked as a software engineer at FPT software for 3 years. I have experience with C#, React, and I worked a lot with the OutSystems low-code platform. In my projects, I take care of almost the whole process: I analyze requirements, write code, test, and maintain the system. Currently, I am working as an AI engineer on a .NET project. I use AI to do most of the tasks, which helps me work much faster. That's all."
 
-Q1: Why did you leave FPT Software?
+Question 2: Difficulties & Solutions
 
-"I had a solid three years at FPT, but I felt it was time to step out of my comfort zone. I wanted to explore new challenges—especially having the chance to work with AI alongside OutSystems—and honestly, I was also looking for better career growth with a more competitive compensation package."
+Interviewer: "Have you faced any limitations or difficulties? Can you share it with me, and what did you do to resolve these problems?"
 
-Q2: How do you feel about your current working environment and colleagues?
+Your Answer:
 
-Honestly, I find the environment really good and dynamic. What I like most is the people—my colleagues are very friendly and supportive. 
+"Yes, in the past, I sometimes had hard problems at work, mostly about coding and new bugs. When I could not fix them by myself, I had to search on Google or ask my team lead. But now, I don't have many big problems anymore, because AI supports me very strongly."
 
-Q3: How do you handle a tight deadline when unexpected bugs happen? (Xử lý áp lực & sự cố)
+Question 3: Communication with Team & PM when stuck
 
-First, I don't panic. I assess the bug and immediately flag it to my lead so everyone is aligned. If the deadline is too close, I propose a workaround or a temporary fix first to keep the system running, then schedule proper refactoring later.
+Interviewer: "When you face a problem and you cannot resolve it by yourself, how will you communicate with your team or your PM?"
 
-Q4: How do you learn new tech like AI while still doing OutSystems daily? (Đánh giá khả năng tự học)
+Your Answer:
 
-I learn by doing. Instead of just reading theory, I try to integrate small AI features directly into my low-code practice—like connecting an external LLM API to an OutSystems app. That way, I upgrade my skills without slowing down my daily delivery.
+"First, I always try to fix the problem by myself for 1 or 2 hours. If I still cannot fix it, I will ask my teammates first. If they cannot help me, I will talk to my team lead or technical expert. At the same time, I also tell my PM early so we can find a solution together and not miss the deadline."
 
-Q5: What are your goals for the next 2–3 years? (Định hướng tương lai)
+Question 4: Time Management & Tracking Multiple Deadlines
 
-In the next 2 to 3 years, I want to become a go-to engineer who effectively bridges Low-code and AI. I want to build systems that are not just fast to deliver, but also intelligent and scalable.
+Interviewer: "How do you manage your daily task and keep track on this task when you have multiple deadlines? Are you good at time management skills? Can you give me a specific example?"
+
+Your Answer:
+
+"Yes, I think I manage my time well. Whenever I get a new task, I always write it down in my personal notebook. It records all tasks and deadlines for the day so I know what I need to finish. When I finish a task, I check it off. At the end of the day, I review my list to check for any missing work. If a task is delayed or I have too much work, I will proactively tell my team lead or client to find another solution."
+
+Question 5: Working Overtime (OT)
+
+Interviewer: "Do you have to work overtime a lot? Are you willing to do that or because the manager requires you to do that?"
+
+Your Answer:
+
+"In the past, I had to work overtime a lot, but now I don't. Normally, I try to finish my work during office hours. If a delay is my fault, I am willing to work overtime to fix it. However, if the task has a problem or the scope is too big, I will report it to my manager first so we can arrange it. But if my manager still requires me to OT for the project, I am always willing to do it."
+
+Question 6: Future Goals (3–5 years)
+
+Interviewer: "What is your target or your goal in the next three or five years? What do you want to achieve?"
+
+Your Answer:
+
+"In the next 3 to 5 years, my goal is to become a Technical Lead. To achieve this, I want to learn new programming languages and get official OutSystems certifications. Especially, I want to develop strongly in AI engineering to catch up with new technology trends. At the same time, I am also improving my English skills every day to work better in international projects."
+
+Question 7: Biggest Strength
+
+Interviewer: "Can you share with me one of the most strengths that you are confident about yourself?"
+
+Your Answer:
+
+"I think my biggest strength is my strong business analysis skill. I have experience working on very complex systems, such as tax and logistics projects. Because of this, I can understand requirements very fast and build the right solution. Another strength is my independence. I can work very well by myself and handle tasks smoothly from start to finish."
+
+
+"AI helps me with almost everything in the project. It helps me analyze business requirements, write code, test, and fix bugs. I just need to give clear prompts and instructions to the AI, and then I review and test the final result carefully to make sure everything is correct
+
+
+First, I read through all the requirements and write down the main points. Then, I break down the features into smaller functions to make them easier to read and clear them one by one. If anything is unclear, I will directly ask the BA or team lead to get the right answer
